@@ -1,0 +1,7 @@
+D:\Projects\RazorGDI\SRC\RazorGDIControlWF\bin\Debug\RazorGDIControlWF.dll
+D:\Projects\RazorGDI\SRC\RazorGDIControlWF\bin\Debug\RazorGDIControlWF.pdb
+D:\Projects\RazorGDI\SRC\RazorGDIControlWF\bin\Debug\RazorGDIPainter.dll
+D:\Projects\RazorGDI\SRC\RazorGDIControlWF\bin\Debug\RazorGDIPainter.pdb
+D:\Projects\RazorGDI\SRC\RazorGDIControlWF\obj\Debug\RazorGDIControlWF.csprojResolveAssemblyReference.cache
+D:\Projects\RazorGDI\SRC\RazorGDIControlWF\obj\Debug\RazorGDIControlWF.dll
+D:\Projects\RazorGDI\SRC\RazorGDIControlWF\obj\Debug\RazorGDIControlWF.pdb

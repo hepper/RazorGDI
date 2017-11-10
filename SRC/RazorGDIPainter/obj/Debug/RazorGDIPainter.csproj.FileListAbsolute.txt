@@ -1,0 +1,8 @@
+D:\Projects\BeautyDJ\SRC\RazorGDIPainter\bin\Debug\RazorGDIPainter.dll
+D:\Projects\BeautyDJ\SRC\RazorGDIPainter\bin\Debug\RazorGDIPainter.pdb
+D:\Projects\BeautyDJ\SRC\RazorGDIPainter\obj\Debug\RazorGDIPainter.dll
+D:\Projects\BeautyDJ\SRC\RazorGDIPainter\obj\Debug\RazorGDIPainter.pdb
+D:\Projects\RazorGDI\SRC\RazorGDIPainter\bin\Debug\RazorGDIPainter.dll
+D:\Projects\RazorGDI\SRC\RazorGDIPainter\bin\Debug\RazorGDIPainter.pdb
+D:\Projects\RazorGDI\SRC\RazorGDIPainter\obj\Debug\RazorGDIPainter.dll
+D:\Projects\RazorGDI\SRC\RazorGDIPainter\obj\Debug\RazorGDIPainter.pdb

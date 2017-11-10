@@ -1,0 +1,9 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:RazorGDIControlWPF="clr-namespace:RazorGDIControlWPF;assembly=RazorGDIControlWPF" x:Class="RazorGDIPainterWPFTest.MainWindow" Loaded="Window_Loaded_1" Closing="Window_Closing_1"
+        Title="MainWindow" Height="207" Width="288">
+	<Grid>
+		<RazorGDIControlWPF:RazorPainterWPFCtl x:Name="razorPainterWPFCtl1" Margin="10"/>
+	</Grid>
+</Window>

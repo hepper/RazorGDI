@@ -1,0 +1,10 @@
+﻿<WindowsFormsHost x:Class="RazorGDIControlWPF.RazorPainterWPFCtl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                  xmlns:razorControl="clr-namespace:RazorGDIControlWPF"
+                  mc:Ignorable="d" 
+             d:DesignHeight="128" d:DesignWidth="128">
+	<razorControl:RazorBackendCtl x:Name="RazorBackend1"/>
+</WindowsFormsHost>
